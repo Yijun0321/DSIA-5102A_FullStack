@@ -1,2 +1,6 @@
 Flask
 flask-cors
+fastapi
+uvicorn
+starlette.responses
+fastapi.staticfiles
